@@ -1,2 +1,4 @@
-# nlp_hw1
-# nlp_hw1
+# cs447 hw1
+Implemented:
+- ngram language model
+- finite state transducers
